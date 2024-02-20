@@ -1,15 +1,15 @@
 title: Eliton Nachbar # your name (or website title) here
 logo: "/images/perfil.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  <p>  🌱 Estudando: Machine learning e Estatística; </p> 
-  <p>  🏅 Conhecimento: SQL, Excel e PowerBI; </p> 
-  <p>  ✍🏻 Cursando: Bacharelado em Ciência de Dados pela Univesp;</p> 
- <p>   👨‍🎓 Graduado em Administração pela Unip em 2014. </p> 
-  <br></br>
-  <p> 3+ Projetos em Ciência de Dados usando Análise Exploratória (EDA), Python e as principais</p> 
-  <p>    bibliotecas como Pandas, Plotly, Seaborn, Matplotlib e Numpy. Os projetos podem ser vistos ao lado ➡️ </p> 
-  <br><br>
+--- >-
+<n> Estudando Machine learning e Estatística, Conhecimento em SQL, Excel e
+PowerBI. Cursando Bacharelado em Ciência de Dados pela Univesp e Graduado em
+Administração pela Unip em 2014.
+
+<n>3+ Projetos em Ciência de Dados usando Análise Exploratória (EDA), Python e
+as principais bibliotecas como Pandas, Plotly, Seaborn, Matplotlib e Numpy. Os
+projetos podem ser vistos ao lado ➡️</n>
+
   <a href="https://www.linkedin.com/in/elitonnachbar/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
