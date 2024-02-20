@@ -29,9 +29,9 @@ O painel pode ser acessado através do link abaixo.
 One way to understand how a city government works is by looking at who it employs and how its employees are compensated. This data contains the names,job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014. The final product was a link made available in streamlit to visualize the data interactively, and create new metrics by Jobs or by Year.
 The link to check the dashboards is above.
 
-<img src="images/sf1.jpeg?raw=true"/>
+<img src="images/san1.jpeg?raw=true"/>
 <b><b>
-<img src="images/sf2.jpeg?raw=true"/>
+<img src="images/san2.jpeg?raw=true"/>
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -43,7 +43,7 @@ The link to check the dashboards is above.
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-[View Project Here](https://tomnachbar-zomato.streamlit.app/](https://sanfrancisco-salaries.streamlit.app/)
+[View Project Here](https://sanfrancisco-salaries.streamlit.app/)
 
 
 ---
