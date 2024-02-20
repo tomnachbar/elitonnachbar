@@ -5,8 +5,13 @@
 ### Zomato Restaurant
 A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core business é facilitar o encontro e negociações de clientes e restaurantes. 
 O Ceo da empresa solicita que seja criada uma ferramenta para a análise de dados através de dashboards interativos para filtrar e ter as melhores
-métricas para a tomada de decisão. ainel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. 
-O painel pode ser acessado através do link abaixo.
+métricas para a tomada de decisão. Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. 
+O painel pode ser acessado através do link abaixo. 
+
+*The company Fome Zero is a marketplace of restaurants. Their business core is make easy the meet and the negotiation of customers and restaurants. 
+The Ceo ask to build a tool of data analysis through interactive dashboards to filter and find better metrics to made better decisions. Online Panel, hosted in a cloud e available
+to acess in any device connected at Internet.
+The panel can be acess in the link below*
 
 <img src="images/zomato1.jpeg?raw=true"/>
 <b><b>
@@ -25,9 +30,11 @@ O painel pode ser acessado através do link abaixo.
 
 
 ### San Francisco Government Salaries
-
 One way to understand how a city government works is by looking at who it employs and how its employees are compensated. This data contains the names,job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014. The final product was a link made available in streamlit to visualize the data interactively, and create new metrics by Jobs or by Year.
-The link to check the dashboards is above.
+The link to check the dashboards is below.
+
+*Uma maneira de entender como funciona um governo municipal é observar quem ele emprega e como seus funcionários são remunerados. Esses dados contêm nomes, cargos e remunerações dos funcionários da cidade de São Francisco anualmente de 2011 a 2014. O produto final foi um link disponibilizado em streamlit para visualizar os dados de forma interativa e criar novas métricas por Cargos ou por Ano .
+O link para verificar os dashboards está abaixo.*
 
 <img src="images/san1.jpeg?raw=true"/>
 <b><b>
