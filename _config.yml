@@ -2,22 +2,13 @@ title: Eliton Nachbar # your name (or website title) here
 logo: "/images/perfil.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  🌱 Estudando: Machine learning e Estatística;
-  ✍🏻 Cursando: Bacharelado em Ciência de Dados pela Univesp;
-  👨‍🎓 Graduado em Administração pela Unip em 2014.
-  3+ Projetos em Ciência de Dados usando Análise Exploratória (EDA), Python e as principais
-  bibliotecas como Pandas, Plotly, Seaborn, Matplotlib e Numpy. Os projetos podem ser vistos ao lado -->
-  Conhecimento em SQL e SQLite, usando Dbeaver.
-  Conhecimento em PowerBI, Dax e Power Query.
-  <br><br><i>
-  🌱 Studiyng: Machine learning and Statistic;
-  ✍🏻 Coursing: Bacharel in Data Science At Univesp;
-  👨‍🎓 Graduated in Business at Unip in 2014.
-  3+ Projects in Data Science using EDA, Python and the main libraries like
-  Pandas, Plotly, Seaborn, Matplotlib and Numpy. The projects are specified beside -->
-  Experience in SQL and SQLite, using Dbeaver.
-  Experience in PowerBI, Dax and Power Query.</i>
-   <br><br>
+  🌱 Estudando: Machine learning e Estatística; </br>
+  <br> ✍🏻 Cursando: Bacharelado em Ciência de Dados pela Univesp;</br>
+  <br> 👨‍🎓 Graduado em Administração pela Unip em 2014.</br>
+ <br>3+ Projetos em Ciência de Dados usando Análise Exploratória (EDA), Python e as principais</br>
+  </br>bibliotecas como Pandas, Plotly, Seaborn, Matplotlib e Numpy. Os projetos podem ser vistos ao lado --></br>
+  </br>Conhecimento em SQL e SQLite, usando Dbeaver.</br>
+  </br>Conhecimento em PowerBI, Dax e Power Query.</br>
   <a href="https://www.linkedin.com/in/elitonnachbar/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
