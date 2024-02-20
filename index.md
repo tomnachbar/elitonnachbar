@@ -1,4 +1,4 @@
-## Portfolio
+## Projetos de Data Science em Desenvolvimento utilizando EDA e gerando insights através de Dashboards Interativos.
 
 ---
 
