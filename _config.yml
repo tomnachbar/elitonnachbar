@@ -7,6 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Confira os projetos ao lado ➡.
   <br><br>
   <a href="https://www.linkedin.com/in/elitonnachbar/">View my LinkedIn Profile</a> 
-
+  
+theme: jekyll-theme-minimal
 colors:
   crimson: '#900C3F'
