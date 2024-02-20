@@ -2,10 +2,22 @@ title: Eliton Nachbar # your name (or website title) here
 logo: "/images/perfil.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Aqui demonstro minhas habilidades adquiridas em resolver problemas de negócio utilizando conceitos e ferramentas de ciências de dados, através de projetos com dados públicos. Nessa página também descrevo um pouco da minha experiência profissional, habilidades adquiridas, ferramentas e conceitos envolvendo a ciência de dados. Ao final da página, disponibilizo as formas de contato para mais esclarecimentos ou dúvidas, e como entrar em contato. 
-  <br><br>
-  Ranked in top 10% of undergraduate cohort at Cambridge University.
-  <br><br>
+  🌱 Estudando: Machine learning e Estatística;
+  ✍🏻 Cursando: Bacharelado em Ciência de Dados pela Univesp;
+  👨‍🎓 Graduado em Administração pela Unip em 2014.
+  3+ Projetos em Ciência de Dados usando Análise Exploratória (EDA), Python e as principais
+  bibliotecas como Pandas, Plotly, Seaborn, Matplotlib e Numpy. Os projetos podem ser vistos ao lado -->
+  Conhecimento em SQL e SQLite, usando Dbeaver.
+  Conhecimento em PowerBI, Dax e Power Query.
+  <br><br><i>
+  🌱 Studiyng: Machine learning and Statistic;
+  ✍🏻 Coursing: Bacharel in Data Science At Univesp;
+  👨‍🎓 Graduated in Business at Unip in 2014.
+  3+ Projects in Data Science using EDA, Python and the main libraries like
+  Pandas, Plotly, Seaborn, Matplotlib and Numpy. The projects are specified beside -->
+  Experience in SQL and SQLite, using Dbeaver.
+  Experience in PowerBI, Dax and Power Query.</i>
+   <br><br>
   <a href="https://www.linkedin.com/in/elitonnachbar/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
