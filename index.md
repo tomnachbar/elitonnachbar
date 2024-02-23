@@ -30,7 +30,6 @@ The panel can be acess in the link below*
 
 
 ### San Francisco Government Salaries
-
 Desenvolvido para entender como funciona um governo municipal, e observar quem ele emprega e como seus funcionários são remunerados. Esses dados contêm cargos e remunerações dos funcionários da cidade de São Francisco anualmente de 2011 a 2014. O produto final foi um link disponibilizado em streamlit para visualizar os dados de forma interativa e criar novas métricas por Cargos ou por Ano .
 O link para verificar os dashboards está abaixo
 
