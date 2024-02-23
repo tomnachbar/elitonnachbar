@@ -30,11 +30,12 @@ The panel can be acess in the link below*
 
 
 ### San Francisco Government Salaries
-One way to understand how a city government works is by looking at who it employs and how its employees are compensated. This data contains the names,job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014. The final product was a link made available in streamlit to visualize the data interactively, and create new metrics by Jobs or by Year.
-The link to check the dashboards is below.
 
-*Uma maneira de entender como funciona um governo municipal é observar quem ele emprega e como seus funcionários são remunerados. Esses dados contêm nomes, cargos e remunerações dos funcionários da cidade de São Francisco anualmente de 2011 a 2014. O produto final foi um link disponibilizado em streamlit para visualizar os dados de forma interativa e criar novas métricas por Cargos ou por Ano .
-O link para verificar os dashboards está abaixo.*
+Desenvolvido para entender como funciona um governo municipal, e observar quem ele emprega e como seus funcionários são remunerados. Esses dados contêm cargos e remunerações dos funcionários da cidade de São Francisco anualmente de 2011 a 2014. O produto final foi um link disponibilizado em streamlit para visualizar os dados de forma interativa e criar novas métricas por Cargos ou por Ano .
+O link para verificar os dashboards está abaixo
+
+*One way to understand how a city government works is by looking at who it employs and how its employees are compensated. This data contains the job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014. The final product was a link made available in streamlit to visualize the data interactively, and create new metrics by Jobs or by Year.
+The link to check the dashboards is below*
 
 <img src="images/san1.jpeg?raw=true"/>
 <b><b>
