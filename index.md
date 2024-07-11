@@ -3,6 +3,8 @@
 ---
 
 ### Zomato Restaurant
+![zomato](https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white)
+
 A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core business é facilitar o encontro e negociações de clientes e restaurantes. 
 O Ceo da empresa solicita que seja criada uma ferramenta para a análise de dados através de dashboards interativos para filtrar e ter as melhores
 métricas para a tomada de decisão. Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. 
