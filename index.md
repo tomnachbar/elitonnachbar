@@ -62,9 +62,9 @@ O link está disponível abaixo.
 *Project that aims to create a predictive model through Machine Learning, with a machine learning method that is capable of predicting with quality and good accuracy whether a given patient will have heart disease, through data input, and that this translates into a model that is applicable and that can be used as medical support. The final product was a link made available through Hugging Face to input data interactively and create new predictions.
 The link is available below.*
 
-<img src="images/san1.jpeg?raw=true"/>
+<img src="images/distribution_by_gender.jpeg?raw=true"/>
 <b><b>
-<img src="images/san2.jpeg?raw=true"/>
+<img src="images/accuracies_models.jpeg?raw=true"/>
 
 - ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
