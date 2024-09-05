@@ -1,4 +1,4 @@
-## Projetos de Data Science utilizando EDA e gerando insights através de Dashboards Interativos.
+## Projetos de Data Science utilizando Python, Machine Learning e um toque de personalidade.
 
 ---
 
@@ -53,15 +53,29 @@ The link to check the dashboards is below*
 
 [View Project Here](https://sanfrancisco-salaries.streamlit.app/)
 
-
 ---
 
-### Projects in Development 
+### Heart Disease Prediction
+Projeto que visa criar um modelo preditivo através de Machine Learning, com método de aprendizado de máquina que seja capaz de prever com qualidade e boa acurácia se determinado paciente terá doença cardíaca, através de entrada de dados, e que isso traduza-se em um modelo que seja aplicável e que poderão vir a ser utilizado como apoio médico. O produto final foi um link disponibilizado através do Hugging Face para inputar os dados de forma interativa e criar novas previsões.
+O link está disponível abaixo.
 
-- [Project 1 Title](http://example.com/)
+*Project that aims to create a predictive model through Machine Learning, with a machine learning method that is capable of predicting with quality and good accuracy whether a given patient will have heart disease, through data input, and that this translates into a model that is applicable and that can be used as medical support. The final product was a link made available through Hugging Face to input data interactively and create new predictions.
+The link is available below.*
+
+<img src="images/san1.jpeg?raw=true"/>
+<b><b>
+<img src="images/san2.jpeg?raw=true"/>
+
+- ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+- ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+[View Project Here](https://huggingface.co/spaces/nachbars/heart_disease)
 
 
----
 
 
 
